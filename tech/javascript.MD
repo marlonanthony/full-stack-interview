@@ -138,6 +138,7 @@ typeof (operand)
     <summary>
         Answer
     </summary>
+    innerHTML lets you work with HTML rich text and doesn't automatically encode and decode text. In other words, innerText retrieves and sets the content of the tag as plain text, whereas innerHTML retrieves and sets the content in HTML format.
 </details>
 
 ### 11. What is the difference between HTMLCollection and NodeList?
