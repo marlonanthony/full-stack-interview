@@ -112,6 +112,7 @@ typeof (operand)
     <summary>
         Answer
     </summary>
+    null and undefined are two types in JavaScript. undefined means something hasn't been initialized. null means something is currently unavailable. 
 </details>
 
 ### 8. What are anonymous functions in Javascript?
